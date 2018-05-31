@@ -1,0 +1,27 @@
+
+element.style {
+}
+<style>…</style>
+.body {
+    position: relative;
+}
+<style>…</style>
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+<style>…</style>
+body {
+    font-family: "Helvetica Neue", Helvetica, "Arial sans-serif";
+    font-size: 16px;
+    line-height: 1.6;
+    color: rgb(67, 67, 67);
+}
+<style>…</style>
+html {
+    font-family: sans-serif;
+    text-size-adjust: 100%;
+}
